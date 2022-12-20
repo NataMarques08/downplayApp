@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Início"
+        android:id="@+id/inicio"
+        android:icon="@drawable/home_logo_teste"/>
+    <item android:title="Músicas"
+        android:id="@+id/musicas"
+        android:icon="@drawable/head_phone_mp3"/>
+    <item android:title="Vídeos"
+        android:id="@+id/videos"
+        android:icon="@drawable/video_icon"/>
+
+</menu>
