@@ -12,7 +12,6 @@ import androidx.core.view.MenuItemCompat
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.downplayteste.R
 import com.example.downplayteste.databinding.FragmentInicioBinding
 import com.natamarques.downplayteste.helper.Constants
 import com.natamarques.downplayteste.model_search._YoutubeList
